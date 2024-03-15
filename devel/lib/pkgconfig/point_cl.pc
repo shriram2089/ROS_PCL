@@ -1,0 +1,8 @@
+prefix=/home/zeus_007/task2_Ws/devel
+
+Name: point_cl
+Description: Description of point_cl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
